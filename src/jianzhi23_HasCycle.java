@@ -8,6 +8,9 @@ public class jianzhi23_HasCycle {
       }
       }
 
+    /**
+     * 判断链表是否有环
+     */
     public class Solution {
         public ListNode detectCycle(ListNode head) {
             ListNode fast = head;
