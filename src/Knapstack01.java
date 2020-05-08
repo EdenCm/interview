@@ -35,5 +35,4 @@ public class Knapstack01 {
         int[] value = {6,10,12};
         System.out.println(napStack01(weight,value,5));
     }
-
 }

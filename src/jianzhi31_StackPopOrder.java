@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class jianzhi31_StackPopOrder {
+public class    jianzhi31_StackPopOrder {
 
     // 栈的压入弹出序列
     // stack 1,2,3,4,5 弹出 4,5,3,2,1

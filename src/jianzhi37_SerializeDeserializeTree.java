@@ -3,7 +3,9 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 public class jianzhi37_SerializeDeserializeTree {
-
+    /**
+     * 序列化二叉树与反序列
+     */
     public class TreeNode {
       int val;
       TreeNode left;
@@ -76,7 +78,7 @@ public class jianzhi37_SerializeDeserializeTree {
         sb.append("null");
         sb.append("2");
         System.out.println(sb.toString());
-        int i = sb.toString().charAt(0);
+        int i = sb.toString().charAt(0)-'0';
         System.out.println(i);
     }
 }

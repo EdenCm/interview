@@ -50,7 +50,7 @@ public class jianzhi38_StringPermution {
 
     public static void main(String[] args) {
         StringBuilder sb  = new StringBuilder();
-        String s = "ava";
+        String s = "abc";
         sb.append(s.charAt(0));
         sb.append(s.charAt(1));
         sb.deleteCharAt(sb.length() -1);

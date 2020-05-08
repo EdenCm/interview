@@ -1,7 +1,9 @@
 import java.util.Arrays;
 
 public class jianzhi66_constructArr {
-
+    /**
+     * 构建乘积数组
+     */
     class Solution {
         public int[] constructArr(int[] a) {
             // 不能用除法

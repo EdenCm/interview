@@ -35,5 +35,7 @@ public class jianzhi61_PukIsContinuous {
         Solution solution = new Solution();
         int[] nums = {1,2,4,9,0};
         System.out.println(solution.isContinuous(nums));
+
+
     }
 }

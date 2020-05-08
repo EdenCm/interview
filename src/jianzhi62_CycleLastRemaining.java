@@ -18,14 +18,32 @@ public class jianzhi62_CycleLastRemaining {
             // 定义指针
             int p = 0;
             while (list.size()>1){
-                for (int k = 1; k <= m; k++) {
+                for (int k = 1; k < m; k++) {
                     p += 1;
                     if (p == list.size()) p = 0;
                 }
                 list.remove(p);
+                if (p == list.size()) p = 0;
             }
-            if (p == list.size()) p = 0;
             return list.get(0);
         }
+
+        /**
+         * 数学规律：约瑟夫环问题
+         */
+        public int lastNumInCycle(int n, int m) {
+            if (n <= 0 || m <= 0) return -1;
+            int f = 0;
+            for (int i = 2; i <= n; i++) {
+                f = (f + m) % i;
+            }
+            return f;
+        }
+
+    }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        System.out.println(solution.lastRemain(5,3));
     }
 }
