@@ -1,4 +1,4 @@
-public class Knapstack01 {
+public class Knapstack01DP {
 
     /**
      * 01背包问题

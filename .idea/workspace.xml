@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa9de738-902e-4ba6-a19b-7bbd852d5f77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list2Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondTry/j_57_MaxSlideWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi23_HasCycle$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi23_HasCycle$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi67_String2Num$String2Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi67_String2Num$String2Num.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi67_String2Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi67_String2Num.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Knapstack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Knapstack01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi31_StackPopOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi31_StackPopOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi37_SerializeDeserializeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi37_SerializeDeserializeTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi38_StringPermution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi38_StringPermution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi39_MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi39_MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi42_MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi42_MaxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi61_PukIsContinuous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi61_PukIsContinuous.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi62_CycleLastRemaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi62_CycleLastRemaining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi63_MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi63_MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi66_constructArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi66_constructArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi67_String2Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi67_String2Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi37_SerializeDeserializeTree$Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi37_SerializeDeserializeTree$Codec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi37_SerializeDeserializeTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi37_SerializeDeserializeTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi37_SerializeDeserializeTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi37_SerializeDeserializeTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi38_StringPermution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi38_StringPermution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi39_MajorityElement$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi39_MajorityElement$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi42_MaxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi42_MaxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/jianzhi66_constructArr$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/jianzhi66_constructArr$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Knapstack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Knapstack01DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi60_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi60_TouZiNumDP.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +39,7 @@
     <session id="-44794544">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.101" value="1" />
           <entry key="project.open.time.105" value="1" />
           <entry key="project.open.time.108" value="2" />
@@ -68,11 +62,12 @@
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.363" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.41" value="2" />
           <entry key="project.open.time.43" value="2" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -90,32 +85,32 @@
           <entry key="project.open.time.86" value="1" />
           <entry key="project.open.time.89" value="1" />
           <entry key="project.open.time.92" value="1" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="288" />
+          <entry key="java" value="297" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="288" />
+          <entry key="JAVA" value="297" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="240" />
-          <entry key="java" value="31253" />
-          <entry key="txt" value="19" />
+          <entry key="dummy" value="255" />
+          <entry key="java" value="31683" />
+          <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="31253" />
-          <entry key="PLAIN_TEXT" value="259" />
+          <entry key="JAVA" value="31683" />
+          <entry key="PLAIN_TEXT" value="285" />
         </counts>
       </usages-collector>
     </session>
@@ -123,37 +118,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi67_String2Num.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi68_1BSTLowestCommonAncestor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi68_2TreeLowestCommonAncestor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-369">
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MaxHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+            <state relative-caret-position="1075">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,55 +130,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode46_Permutions.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi57_TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            <state relative-caret-position="750">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Knapstack01.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi57_1FindContinuousSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+            <state relative-caret-position="825">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode79_WordSearch.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi58_ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+            <state relative-caret-position="575">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_SortLinkList.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi59_MaxSlidingWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="1950">
+              <caret line="88" selection-start-line="88" selection-end-line="92" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi64_GetSum.java">
+        <entry file="file://$PROJECT_DIR$/src/Knapstack01DP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="850">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi66_constructArr.java">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi63_MaxProfit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="231">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi61_PukIsContinuous.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/secondTry/j_57_MaxSlideWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi60_TouZiNumDP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -246,10 +244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jianzhi36_Tree2DublyList.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi35_CopyRandomList.java" />
-        <option value="$PROJECT_DIR$/src/WordSearch_79.java" />
-        <option value="$PROJECT_DIR$/src/leetcode17TelNumCombination.java" />
         <option value="$PROJECT_DIR$/src/Permutions_46.java" />
         <option value="$PROJECT_DIR$/src/MaxHeap.java" />
         <option value="$PROJECT_DIR$/src/jianzhi41_FindMedian.java" />
@@ -297,6 +291,10 @@
         <option value="$PROJECT_DIR$/src/jianzhi42_MaxSubArray.java" />
         <option value="$PROJECT_DIR$/src/Knapstack01.java" />
         <option value="$PROJECT_DIR$/src/jianzhi66_constructArr.java" />
+        <option value="$PROJECT_DIR$/src/secondTry/j_57_MaxSlideWindow.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi60_TouZiNum.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi60_TouZiNumDP.java" />
+        <option value="$PROJECT_DIR$/src/Knapstack01DP.java" />
       </list>
     </option>
   </component>
@@ -321,7 +319,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,10 +336,17 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="secondTry" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="CatdeaLogs" />
     </panes>
   </component>
@@ -350,7 +354,7 @@
     <property name="SearchEverywhereHistoryKey" value="Co&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Comparator.java&#10;charAt&#9;PSI&#9;JAVA://java.text.AttributedString#charAt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588946653592" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589080091283" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -371,7 +375,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jianzhi38_StringPermution">
+  <component name="RunManager" selected="Application.j_57_MaxSlideWindow">
+    <configuration name="j_57_MaxSlideWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondTry.j_57_MaxSlideWindow" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secondTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="jianzhi33_VerifySequenceOfBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jianzhi33_VerifySequenceOfBST" />
       <module name="Java" />
@@ -393,34 +410,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jianzhi67_String2Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi67_String2Num" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="list2Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list2Array" />
+    <configuration name="jianzhi57_1FindContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi57_1FindContinuousSequence" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.jianzhi67_String2Num" />
-      <item itemvalue="Application.list2Array" />
       <item itemvalue="Application.jianzhi33_VerifySequenceOfBST" />
       <item itemvalue="Application.jianzhi37_SerializeDeserializeTree" />
       <item itemvalue="Application.jianzhi38_StringPermution" />
+      <item itemvalue="Application.jianzhi57_1FindContinuousSequence" />
+      <item itemvalue="Application.j_57_MaxSlideWindow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.j_57_MaxSlideWindow" />
+        <item itemvalue="Application.jianzhi57_1FindContinuousSequence" />
         <item itemvalue="Application.jianzhi38_StringPermution" />
         <item itemvalue="Application.jianzhi37_SerializeDeserializeTree" />
         <item itemvalue="Application.jianzhi33_VerifySequenceOfBST" />
-        <item itemvalue="Application.list2Array" />
-        <item itemvalue="Application.jianzhi67_String2Num" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +501,9 @@
       <workItem from="1588410975627" duration="585000" />
       <workItem from="1588476628082" duration="5962000" />
       <workItem from="1588564199848" duration="7848000" />
-      <workItem from="1588906752913" duration="14483000" />
+      <workItem from="1588906752913" duration="14700000" />
+      <workItem from="1589011000053" duration="5006000" />
+      <workItem from="1589079486711" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="61">
       <created>1588234035619</created>
@@ -535,16 +547,23 @@
       <option name="project" value="LOCAL" />
       <updated>1588908862860</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5.8过思路">
+      <created>1588947735681</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588947735681</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314929000" />
+    <option name="totallyTimeSpent" value="320722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20278184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16983895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -553,13 +572,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26857144" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.14" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23285714" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.60571426" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26285714" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32857144" />
@@ -587,7 +606,8 @@
     <MESSAGE value="65" />
     <MESSAGE value="63" />
     <MESSAGE value="23题注" />
-    <option name="LAST_COMMIT_MESSAGE" value="23题注" />
+    <MESSAGE value="5.8过思路" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.8过思路" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -645,70 +665,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhi3_DuplicateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi4_findNumberIn2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi6_LinkListTail2headPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi7_ReBuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi8_NextTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi9_twoStackAQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi10_2_QingWaStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi10_Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhi11_revoleArrayMinNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,10 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
           <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-          <folding>
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,12 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="3798" column="37" lean-forward="true" selection-start-line="3798" selection-start-column="37" selection-end-line="3798" selection-end-column="37" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,10 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#579#588#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,73 +896,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode46_Permutions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Knapstack01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode79_WordSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode_SortLinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi64_GetSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi66_constructArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhi67_String2Num.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
+        <state relative-caret-position="1025">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhi68_1BSTLowestCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
+        <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhi68_2TreeLowestCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
+        <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode46_Permutions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode79_WordSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode_SortLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi64_GetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi66_constructArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MaxHeap.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi57_TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi57_1FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi58_ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi59_MaxSlidingWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="88" selection-start-line="88" selection-end-line="92" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Knapstack01DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi61_PukIsContinuous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi60_TouZiNumDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi63_MaxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondTry/j_57_MaxSlideWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

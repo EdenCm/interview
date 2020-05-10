@@ -1,7 +1,11 @@
 import java.util.Arrays;
 
-public class jianzhi60_twoSum {
+public class jianzhi60_TouZiNumDP {
     // n枚骰子，每个数字出现的概率
+
+    /**
+     * 动态规划知识
+     */
     static  class Solution{
         private final int sideNum = 6;
         public double[] towSum(int n){
